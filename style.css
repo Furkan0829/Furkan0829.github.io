@@ -1,0 +1,174 @@
+body {
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #000000;
+            text-decoration: white;
+            color: white;
+        }
+
+        header {
+            background-color: #000000;
+            color: #fff;
+            padding: 10px;
+            padding-left: 200px;
+            text-align: left;
+            display: flex;
+            border-bottom: 5px;
+            border-bottom-color: ;
+            font-family: Arial, Helvetica, San sans-serif;
+            
+        }
+        .top {
+            background-color: #000000;
+            color: #fff;
+            padding: 10px;
+            padding-left: 400px;
+            text-align: left;
+            display: flex;
+            text-decoration: solid;
+            border-bottom: 5px;
+            border-bottom-color: ;
+            font-family: Arial, Helvetica, San sans-serif;
+            justify-content: right;
+        }
+
+        h1 .fp {
+            margin: 20px 0;
+            padding-right: 30rem;
+            color: #ffffffe0;
+        }
+
+        header li {
+            font-size: x-large;
+            display: block;
+            list-style-type: disc;
+            margin-block-start: 1em;
+            margin-block-end: 1em;
+            margin-inline-start: 0px;
+            margin-inline-end: 0px;
+            padding-inline-start: 40px;
+            unicode-bidi: isolate;
+
+
+        }
+
+        header {
+            color: #fff;
+        }
+        .Home{
+            text-align: left;
+            text-decoration: solid;
+            font-weight: bolder;
+        }
+        .Project{
+            font-weight: bolder;
+            color: #fff;
+            text-decoration: none;
+        }
+        .Contactme{
+            font-weight: bolder;
+            color: #fff;
+            text-decoration: none;
+        }
+        .Myself {
+            flex: 1;
+            font-size: larger;
+        }
+
+        .intro {
+            display: flex;
+            justify-content: space-around;
+            font-size: large;
+            text-align: left;
+            padding: 20px 220px;
+            padding-right: 520px;
+            padding-top: 150px;
+            color: white;
+        }
+
+        .intro b {
+            color: rgb(85, 0, 169);
+            font-size: 2.5rem;
+        }
+
+        .but {
+            margin: 20px 220px;
+            padding-bottom: 50px;
+        }
+        
+        button {
+            padding: 5px 20px;
+            text-transform: uppercase;
+            font-family: 'Quicksand', sans-serif;
+            letter-spacing: 2px;
+            color: rgb(64, 2, 116);
+            background-color: white;
+            border: 1.4px solid;
+            border-radius: 5px;
+            font-size: 18px;
+            transition: 0.5s linear;
+        }
+
+        .Resume{
+            text-decoration: none;
+            font-weight: bolder;
+            color: #4a0076;
+        }
+        .projects{
+            font-size: x-large;
+            text-align: center;
+            padding-top: 50px;
+            
+        }
+        .heading {
+            display: block;
+            color: white;
+            text-decoration: none;
+        }
+        .coverlink{
+            text-decoration: none;
+            color: #fff;
+        }
+        img {
+            height: 200px;
+            width: 500px;
+        }
+        .Contact{
+            text-align: center;
+            font-size: x-large;
+        }
+        .c {
+            display: inline-flex;
+            text-align: center;
+            align-content: center;
+        }
+        .linkedin {
+            text-align: center;
+            color: #fff;
+            text-decoration: none;
+            padding-right: 50px;
+            padding-bottom: 50px;
+        }
+        .github {
+            color: #fff;
+            text-decoration: none;
+            padding-left: 50px;
+            padding-right: 50px;
+            padding-bottom: 50px;
+        }
+        .mail {
+            color: #fff;
+            text-decoration: none;
+            padding-left: 50px;
+            padding-bottom: 50px;
+        }
+        footer {
+            text-align: center;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            background-color: #2e0248;
+            border: #4a0076;
+            border-width: 10px;
+
+        }
